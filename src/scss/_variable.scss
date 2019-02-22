@@ -1,0 +1,16 @@
+
+
+// färger
+ $main_bg: #231F42;
+    $pink: #F56B9A;
+  $orange: #F39440;
+  $green: rgb(9, 155, 24);
+ $greyich:rgba(102, 102, 102, 0.8);
+ $red: rgb(202, 0, 0);
+
+// align center
+%center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
